@@ -1067,6 +1067,10 @@
             <Polish>Deopozyt</Polish>
 			<Chinesesimp>存款</Chinesesimp>
         </Key>
+        <Key ID="STR_ATM_Deposit_All">
+            <Orginal>All Deposit</Orginal>
+            <French>Tout Déposer</French>
+        </Key>
         <Key ID="STR_ATM_WithdrawGang">
             <Original>Withdraw: Gang</Original>
             <Czech>Odstoupit: Gang</Czech>
@@ -1294,6 +1298,10 @@
             <Portuguese>Você não tem todo esse dinheiro.</Portuguese>
             <Polish>Nie masz przy sobie tyle pieniędzy</Polish>
 			<Chinesesimp>你身上没有那么多现金.</Chinesesimp>
+        </Key>
+        <Key ID="STR_ATM_NotCash">
+            <Original>You do not have cash on you.</Original>
+            <French>Vous n'avez pas d'argent.</French>
         </Key>
         <Key ID="STR_ATM_DepositSuccess">
             <Original>You have deposited $%1 into your bank account</Original>
